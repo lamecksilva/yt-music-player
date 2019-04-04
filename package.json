@@ -1,0 +1,25 @@
+{
+  "name": "yt-music-player",
+  "version": "1.0.0",
+  "description": "A CLI music player with Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lamecksilva/yt-music-player.git"
+  },
+  "keywords": [],
+  "author": "Lameck",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lamecksilva/yt-music-player/issues"
+  },
+  "homepage": "https://github.com/lamecksilva/yt-music-player#readme",
+  "dependencies": {
+    "lame": "^1.2.4",
+    "speaker": "^0.4.1",
+    "youtube-audio-stream": "^0.3.0"
+  }
+}
